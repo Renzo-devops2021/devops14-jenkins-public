@@ -1,4 +1,3 @@
-git@github.com:Renzo-devops2021/devops14-jenkins-public.git
 pipeline {
     agent any
     stages {
